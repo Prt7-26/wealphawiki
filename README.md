@@ -2,10 +2,10 @@
 ###### This website is an survival handbook for undergraduates in Xxxxxxxx University.  
 ##### 请勿传播网址，谢谢您的配合🥰
 ###### Do not distribute the URL. Thanks for your help.
-##### $Contributers$ $List$
+##### Contributers List
 | Colleges | Contributers |
 |----------|--------------|
-|$α$|$dsy,$  $wzb,$ $nlc$|
-|$β$||
-|$γ$||
-|$δ$||
+|$α$|$dsy,$ $wzb,$ $nlc$|
+|$β$|   |
+|$γ$|   |
+|$δ$|   |
