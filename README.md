@@ -1,4 +1,4 @@
-## alpha-wiki
+## Hi!
 ### 此网站为某大学本科生生存手册🤩
 ###### This website is an survival handbook for undergraduates in Xxxxxxxx University.  
 ##### 请勿传播网址，谢谢您的配合🥰
@@ -7,7 +7,7 @@
 
 | Colleges | Contributers |
 |----------|--------------|
-|$α$|$dsy,$ $wzb,$ $nlc$|
-|$β$|   |
-|$γ$|   |
-|$δ$|   |
+|$\alpha$|`dsy,wzb,nlc`|
+|$\beta$|   |
+|$\gamma$|   |
+|$\delta$|   |
