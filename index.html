@@ -5,11 +5,27 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Hogwarts Survival Handbook</title>
     <style>
+        /* 让整个页面居中 */
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center; /* 水平居中 */
+            justify-content: center; /* 垂直居中 */
+            min-height: 100vh; /* 占满屏幕高度 */
+            margin: 0;
+            font-family: Arial, sans-serif; /* 页面默认字体 */
+            background-color: #8ca9b2d5; /* 背景色 */
+            text-align: center;
+        }
+        a {
+            color: #0b77f3; /* 超链接颜色：浅蓝色 */
+            text-decoration: none; /* 去除下划线 */
+        }
         table {
             width: 80%;
             margin: 20px auto;
             border-collapse: collapse;
-            font-family: "Times New Roman"; /* 表格内字体 */
+            font-family: "Times New Roman", Times, serif; /* 表格默认字体 */
         }
         th, td {
             border: 1px solid #000;
@@ -18,46 +34,52 @@
         }
         th {
             background-color: #f4f4f4;
+            font-weight: bold;
+        }
+        td code {
+            font-family: "Times New Roman"; /* 特殊内容字体 */
         }
     </style>
 </head>
 <body>
-    <h2>Hi, dear Magicians!</h2>
-    <h3>此网站为霍格沃茨大学本科生生存手册🤩</h3>
-    <h5>This website is a survival handbook for undergraduates in Hogwarts School.</h5>
-    <h5>It is non-official and non-profitable.</h5>
-    <h5>请勿传播网址，谢谢您的配合🥰</h5>
-    <h5>Do not distribute the URL. Thanks for your help. Be careful with Prof. Umbridge!😟</h5>
-    <hr>
-    <h4>Website Navigation</h4>
-    <p><a href="https://wealphawiki.space/Sharing_Berkeley_1.md">Sharing_Berkeley_1</a></p>
-    <hr>
-    <h4>Contributors List</h4>
-    <table>
-        <thead>
-            <tr>
-                <th>College</th>
-                <th>Contributors</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Gryffindor</td>
-                <td><code>Dsy, westfox, 7_26</code></td>
-            </tr>
-            <tr>
-                <td>Hufflepuff</td>
-                <td></td>
-            </tr>
-            <tr>
-                <td>Ravenclaw</td>
-                <td></td>
-            </tr>
-            <tr>
-                <td>Slytherin</td>
-                <td></td>
-            </tr>
-        </tbody>
-    </table>
+    <div>
+        <h2>Hi, dear magicians!</h2>
+        <h3>此网站为霍格沃茨大学本科生生存手册🤩</h3>
+        <h5>This website is a survival handbook for undergraduates in Hogwarts School.</h5>
+        <h5>It is non-official and non-profitable.</h5>
+        <h5>请勿传播网址，谢谢您的配合🥰</h5>
+        <h5>Do not distribute the URL. Thanks for your cooperation. Be careful with Prof. Umbridge!😟</h5>
+        <hr>
+        <h4>Website Navigation</h4>
+        <p><a href="https://wealphawiki.space/Sharing_Berkeley_1.md">Sharing_Berkeley_1</a></p>
+        <hr>
+        <h4>Contributors List</h4>
+        <table>
+            <thead>
+                <tr>
+                    <th>College</th>
+                    <th>Contributors</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Gryffindor</td>
+                    <td><code>Dsy, westfox, 7_26</code></td>
+                </tr>
+                <tr>
+                    <td>Hufflepuff</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Ravenclaw</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>Slytherin</td>
+                    <td></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
 </body>
 </html>
