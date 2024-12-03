@@ -1,8 +1,8 @@
 ## Berkeley 海外交流分享（English Version Below😘）
 
-###### 分享者：日喀则的黑翅膀😎
+##### 分享者：日喀则的黑翅膀😎
 
-##### 选课指导
+#### 选课指导
 
 在Berkeley，交流的国际学生选课优先权低于本校学生。
 
@@ -14,7 +14,7 @@
 
 化学系选课障碍较小，生物与电子信息在Berkeley的选课掉课概率较大。
 
-##### 学习体验
+#### 学习体验
 
 课程质量非常不错，教授上课非常有经验。
 
@@ -34,17 +34,17 @@
 不必担心考试考不好。
 ```
 
-##### 实验室科研机会
+#### 实验室科研机会
 
 Berkeley师生比非常夸张，实验室科研机会竞争激烈，再加上我们只待半年，实验室更倾向于招收能在实验室待更久的本地学生，所以向教授发进入实验室的email大多石沉大海。
 
 `建议：提前与自己的学术导师沟通，看看学术导师是否有人脉资源，提前联系海外学校的教授。`
 
-##### 交友
+#### 交友
 
 如果想认识更多的国际学生，建议抓住刚入校几周的welcoming activity，与他们加联系方式。
 
-##### 衣食住行
+#### 衣食住行
 
 校外租房可使用airbnb, apartment.com，建议明年4月份就可以开始看房，否则有可能找不到离学校很近的合适房源。
 
@@ -66,9 +66,9 @@ Berkeley社团活动非常丰富，有些专业社团需要interview，大部分
 
 ### Berkeley Overseas Exchange Sharing
 
-###### Presenter: "The Black Wing of Shigatse"
+##### Presenter: "The Black Wing of Shigatse"
 
-##### Course Selection Guidance
+#### Course Selection Guidance
 
 At Berkeley, international exchange students have lower priority in course selection compared to local students.
 
@@ -80,7 +80,7 @@ The course selection system is different from Hogwarts. It follows an applicatio
 
 It’s easier to select courses in the Chemistry department, but for Biology and Electronic Information, there is a higher probability of being dropped from courses.
 
-##### Academic Experience:
+#### Academic Experience:
 
 The quality of the courses is excellent, and the professors are very experienced.
 
@@ -104,19 +104,19 @@ Chinese students tend to have stronger test-taking abilities compared to local B
 There is no need to worry too much about exams.
 ```
 
-##### Laboratory Research Opportunities
+#### Laboratory Research Opportunities
 
 The student-to-faculty ratio at Berkeley is extremely high, making research opportunities in laboratories highly competitive. Moreover, since exchange students usually stay for only six months, labs are more inclined to recruit local students who can stay longer. Emails sent to professors for lab opportunities often go unanswered.
 
-##### Recommendation
+#### Recommendation
 
 Communicate with your academic advisor in advance to see if they have any connections and can help you get in touch with professors at the host institution.
 
-##### Making Friends
+#### Making Friends
 
 If you want to meet more international students, take advantage of the welcoming activities during the first few weeks of school and exchange contact information with them.
 
-##### Daily Life
+#### Daily Life
 
 Housing:
 For off-campus rentals, you can use platforms like Airbnb or Apartment.com. It’s recommended to start looking for housing as early as April to secure a place close to campus.
