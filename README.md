@@ -9,7 +9,7 @@
 
 #### 22级孙正涛同学伯克利访学分享
 ###### 22nd-level Sun Zhengtao's Berkeley Study Abroad Sharing
-[Click to View](https://github.com/Prt7-26/wealphawiki/blob/1f161ea83f5e11337570427294cdab462030af1d/Sharing_SunZhengtao.pdf)
+[Click to View](https://github.com/Prt7-26/wealphawiki/blob/1f161ea83f5e11337570427294cdab462030af1d/Sharing_SunZhengtao.pdf).
 
 ***
 
@@ -17,7 +17,7 @@
 
 | Colleges | Contributers |
 |----------|--------------|
-| $alpha$ |`dsy,wzb,nlc`|
-| $beta$ |   |
-| $gamma$ |   |
-| $delta$ |   |
+| alpha |`dsy,wzb,nlc`|
+| beta |   |
+| gamma |   |
+| delta |   |
