@@ -1,0 +1,9 @@
+title: wealphawiki
+description: Hogwarts Survival Handbook
+author: Prt7_26
+
+# Markdown 渲染器
+markdown: kramdown
+
+# 使用主题
+theme: minima
