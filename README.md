@@ -4,12 +4,12 @@
 ###### It is non-official and non-profitbale.
 ##### 请勿传播网址，谢谢您的配合🥰
 ###### Do not distribute the URL. Thanks for your help.
-#### 22级孙正涛同学伯克利访学分享(点击察看)
-###### 22nd-level Sun Zhengtao's Berkeley Study Abroad Sharing (Click to view)
-
-
+***
+#### 22级孙正涛同学伯克利访学分享
+###### 22nd-level Sun Zhengtao's Berkeley Study Abroad Sharing
+<a href="https://github.com/Prt7-26/wealphawiki/blob/main/Sharing_SunZhengtao.pdf" download="Sharing_Sunzhengtao.pdf">Click to Download</a>
+***
 #### Contributers List
-
 | Colleges | Contributers |
 |----------|--------------|
 |$alpha$|`dsy,wzb,nlc`|
