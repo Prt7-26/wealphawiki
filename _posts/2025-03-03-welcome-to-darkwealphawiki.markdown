@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to DarkWealphaWiki"
+title:  "Welcome to wealphawiki"
 date:   2025-03-03 00:24:29 +0800
 categories:
 ---

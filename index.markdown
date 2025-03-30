@@ -3,6 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: "Darkwealphawiki - Home"
+title: "wealphawiki - Home"
 subtitle: "The dark version of wealphawiki"
 ---

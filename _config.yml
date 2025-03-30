@@ -18,21 +18,25 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Darkwealphawiki
+title: wealphawiki
 email: china7_26@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The dark version of wealphawiki.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" 
+  The wiki for Hogwarts students.
+baseurl: "/wealphawiki" # the subpath of your site, e.g. /blog
+url: "https://Prt7-26.github.io"
 twitter_username: None
 github_username:  Prt7-26
 
 # Build settings
-theme: jekyll-theme-yat
+# theme: owner/name --> Don't forget to remove/comment the gem-based theme option
+remote_theme: "jeffreytse/jekyll-theme-yat"
+# Add the following to activate the plugin
+plugins:
+  - jekyll-remote-theme
 yat:
   night_mode: true
-heading: "Darkwealphawiki"
-subheading: "The dark version of wealphawiki"
+heading: "wealphawiki"
+subheading: "The wiki for Hogwarts students."
 paginate: 10  # 每页显示的文章数量
 paginate_path: "/page:num/"
 banner_video: "/assets/v.mp4"
