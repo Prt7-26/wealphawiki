@@ -22,8 +22,8 @@ title: wealphawiki
 email: china7_26@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   The wiki for Hogwarts students.
-baseurl: "/wealphawiki" # the subpath of your site, e.g. /blog
-url: "https://Prt7-26.github.io"
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://wealphawiki.space"
 twitter_username: None
 github_username:  Prt7-26
 
