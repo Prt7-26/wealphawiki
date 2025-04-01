@@ -20,7 +20,7 @@ Department of Mathematical Sciences
 Newark DE, 19716
 lindew@udel.edu*
 
-#### Link:[Werner Linde Probability Theory](/raw_file/概率论与数理统计_提纲（更新贝叶斯统计）.pdf)
+#### Link: [Werner Linde Probability Theory](/raw_file/概率论与数理统计_提纲（更新贝叶斯统计）.pdf)
 
 ![1](/assets/images/article/probability-theory/1.jpg)
 

@@ -8,7 +8,7 @@ tags: Math Probablity Note
 
 *Author: Westfox, Gryffindor, Class of 2023*
 
-#### Link:[ Probability and Mathematical Statistics by Westfox (Outline)](/raw_file/概率论与数理统计_提纲（更新贝叶斯统计）.pdf)
+#### Link: [ Probability and Mathematical Statistics by Westfox (Outline)](/raw_file/概率论与数理统计_提纲（更新贝叶斯统计）.pdf)
 
 这份文档是关于“概率论与数理统计”的提纲，内容详细介绍了概率论和数理统计的基本概念、理论框架和应用方法。以下是主要内容概述：
 

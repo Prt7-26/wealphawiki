@@ -25,7 +25,7 @@ categories:
 
 | College      | Contributors   |
 |:--------------|:----------------|
-| $Gryffindor$   | `Dsy`, `Westfox`, `7_26` |
+| $Gryffindor$   | `Dsy`, `Westfox`, `7_26` , `Wilson`|
 | $Hufflepuff$   |                |
 | $Ravenclaw$    |                |
 | $Slytherin$    |                |
