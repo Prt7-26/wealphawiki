@@ -7,4 +7,5 @@ gem "jekyll-feed"
 gem "jekyll-sitemap"
 gem "jekyll-mentions"
 gem "jemoji"
+gem 'jekyll-katex'
 gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]

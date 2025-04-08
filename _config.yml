@@ -51,6 +51,7 @@ plugins:
   - jekyll-paginate
   - jekyll-mentions
   - jekyll-seo-tag
+  - jekyll-katex
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -28,6 +28,7 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
+    execjs (2.10.0)
     ffi (1.17.1-arm64-darwin)
     ffi (1.17.1-x64-mingw-ucrt)
     forwardable-extended (2.6.0)
@@ -65,6 +66,9 @@ GEM
       webrick (~> 1.7)
     jekyll-feed (0.17.0)
       jekyll (>= 3.7, < 5.0)
+    jekyll-katex (1.0.0)
+      execjs (~> 2.7)
+      jekyll (>= 3.6, < 5.0)
     jekyll-mentions (1.6.0)
       html-pipeline (~> 2.3)
       jekyll (>= 3.7, < 5.0)
@@ -147,6 +151,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 4.4.1)
   jekyll-feed
+  jekyll-katex
   jekyll-mentions
   jekyll-remote-theme
   jekyll-sitemap
