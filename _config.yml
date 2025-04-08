@@ -31,8 +31,9 @@ github_username:  Prt7-26
 # theme: owner/name --> Don't forget to remove/comment the gem-based theme option
 remote_theme: "jeffreytse/jekyll-theme-yat"
 # Add the following to activate the plugin
-plugins:
-  - jekyll-remote-theme
+# plugins:
+#  - jekyll-remote-theme
+# theme: jekyll-theme-yat
 yat:
   night_mode: true
 heading: "wealphawiki"
